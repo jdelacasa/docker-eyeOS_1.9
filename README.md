@@ -1,4 +1,4 @@
-docker-apache-mysql
+docker-eyeOs (1.9)
 ===================
 
 docker + apache + mysql + phpadmin + eyeOs(1.9)
